@@ -1,0 +1,34 @@
+.container1{
+    width: 600px;
+    margin: auto;
+}
+body{
+    background-color:gray;
+}
+head{
+    background-color: white;
+}
+.contenedor{
+    border: 1px solid blue;
+    justify-content: center;
+    float: center; 
+    width: 600px;
+    margin: auto;
+flex-direction: column;
+display: flex;
+background-color: rgb(197, 7, 7);
+}
+
+.description{
+line-height: 150%;
+font: oblique bold 120% cursive;
+}
+
+.img{
+    width:500px;
+    height:500px;
+  
+}
+img{
+    width: 120%;
+    height: 100%;
